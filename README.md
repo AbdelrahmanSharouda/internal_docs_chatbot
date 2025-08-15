@@ -33,6 +33,7 @@ Orchestration: Python scripts
 
 
 ## 📂 Project Structure
+
 ├── data/                     # Raw exported documents & scripts
 ├── src/
 │   ├── embeddings.py         # Parses and indexes data
